@@ -20,8 +20,5 @@ This project demonstrates polynomial regression using Python and scikit-learn.
 The regression line fits a cubic curve to the noisy data:
 ![newplot (1)](https://github.com/user-attachments/assets/bcf7606a-5606-425a-afad-84485cacc823)
 ![newplot (2)](https://github.com/user-attachments/assets/4ddfa9b9-ea9f-4ec0-a11e-458a15f47942)
-![Uploading newplot (3).png…]()
+![newplot (3)](https://github.com/user-attachments/assets/86aa3257-8251-40df-a6d0-4f3c3d268e71)
 
-
-
-🔗 [GitHub Profile](https://github.com/prajwalghotkar)
